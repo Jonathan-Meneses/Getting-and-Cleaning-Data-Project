@@ -8,7 +8,7 @@ The script 'run_analysis.R' produces the 'tidy.txt' output from raw data pulled 
 
 [Source Data for this Project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-As a note, in order for this project to run on your machine, you'll need to appropriately change the working directory to your the location of the extracted data (inside the 'Data' folder).
+As a note, in order for this project to run on your machine, you'll need to appropriately change the working directory to your the location of the extracted data (inside the 'UCI HAR Dataset' folder).
 
 # Approach
 This project creates a tidy data set from the following actions:
