@@ -4,7 +4,7 @@ Jonathan Meneses
 Submission for Final Project for the Coursera Course "Getting and Cleaning Data"
 
 # Description
-The 'script run_analysis.R' produces the 'tidy.txt' output from raw data pulled from [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The script 'run_analysis.R' produces the 'tidy.txt' output from raw data pulled from [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 [Source Data for this Project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
