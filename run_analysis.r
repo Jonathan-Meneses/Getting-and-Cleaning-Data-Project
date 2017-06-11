@@ -99,4 +99,4 @@ merged_data$subjectID     <- as.factor(merged_data$subjectID)                   
 tidy_data                 <- melt(merged_data, id = c("subjectID", "activityType"))         #melts the data set into a long and skinny, tidy set
 tidy_data.mean            <- dcast(tidy_data, subjectID + activityType ~ variable, mean)    #recasts the data to show the mean across activity and subject
 
-write.table(tidy_data.mean, "tidy.txt", row.names = TRUE, sep ='\t')                        #writes tidy data to a text file
+write.table(tidy_data.mean, "tidy.txt", row.names = FALSE)                                  #writes tidy data to a text file
